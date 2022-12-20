@@ -4,6 +4,8 @@
 Created on Mon Dec 19 12:18:03 2022
 
 @author: lamaa
+#Lama majed alrefaie 
+
 """
 import time
 import pandas as pd
@@ -240,6 +242,7 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
+   print('thank you and have a good day !')
 
 if __name__ == "__main__":
 	main()
